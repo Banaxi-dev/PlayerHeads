@@ -2,6 +2,8 @@
 
 A simple [PaperMC](https://papermc.io/) plugin that drops a player's head when they are killed by another player.
 
+
+ℹ️ Folia is not supported yet. We are working on proper Folia support. Do not attempt to use current versions of PlayerHeads on Folia or forks of it - you may lose userdata.
 ## 📦 Features
 
 -  When a player kills another player, the victim's head is dropped.
