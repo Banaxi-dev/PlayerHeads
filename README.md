@@ -26,18 +26,9 @@ I Just Made It for an SMP and decided to share it
 
 No special permissions required – works for all players.
 
-## ❓ FAQ
 
-**Q: Does the head drop on non-player deaths (PvE)?**  
-A: No, heads only drop when one player kills another player.
 
-**Q: Can I configure the plugin behavior?**  
-A: Not at the moment – the plugin is intentionally kept simple.
 
-## 📄 License
-
-This plugin is licensed under the [PolyForm Uncommercial 1.0.0 License](https://polyformproject.org/licenses/uncommercial/1.0.0/).  
-You may use, modify, and share this plugin for non-commercial purposes only.
 
 ---
 
