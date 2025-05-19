@@ -16,6 +16,7 @@ I Just Made It for an SMP and decided to share it
 1. Download the latest version of the plugin.
 2. Place the `.jar` file into your server's `plugins` folder.
 3. Restart the server or use `/reload`.
+Download From Modrinth
 
 ## Requirements
 
